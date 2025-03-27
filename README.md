@@ -14,7 +14,7 @@ Este repositorio contiene un cuaderno interactivo en **Colaboración de Google**
 
 ---
 
-## ?? ¦ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Pitón 3
 - Colaboración de Google
