@@ -1,4 +1,4 @@
-# ?? ¦ Rutas y Matrices de Distancia con OpenRouteService en Google Colab
+# Rutas y Matrices de Distancia con OpenRouteService en Google Colab
 
 Este repositorio contiene un cuaderno interactivo en **Colaboración de Google** para utilizar la API de **Servicio OpenRoute** con el objetivo de calcular rutas entre múltiples coordinadas y matrices generales de distancia y tiempo. Es ideal para aplicaciones en **logística**, **ingeniería de transporte**, **optimización de rutas** y **formación académica**.
 
